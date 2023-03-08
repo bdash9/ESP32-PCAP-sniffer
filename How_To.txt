@@ -1,0 +1,4 @@
+Run code on ESP32
+Connect ESP32 to computer (no serial monitor on in ArduinoIDE)
+
+sudo python3 SerialShark.py
