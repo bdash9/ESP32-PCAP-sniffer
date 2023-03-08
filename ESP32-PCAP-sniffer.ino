@@ -35,8 +35,8 @@
 
 Adafruit_ST7789 tft = Adafruit_ST7789(TFT_CS, TFT_DC, TFT_RST);
 
-const char* ssid = "INDIGO";
-const char* password = "redsun1234";
+const char* ssid = "XXXXXX";
+const char* password = "XXXXXXX";
 
 //===== Run-Time variables =====//
 PCAP pcap = PCAP();
